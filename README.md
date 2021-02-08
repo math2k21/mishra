@@ -1,6 +1,6 @@
 [Manabendra Mishra](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
 
-[National Digital Library] (https://ndl.iitkgp.ac.in/)                         
+[National Digital Library](https://ndl.iitkgp.ac.in/)                         
 
 [Classes and Objects](pdf_1.md)
                 
