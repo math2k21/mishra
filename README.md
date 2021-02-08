@@ -4,7 +4,7 @@
 - [x] Practice
 - [x] Exam                             
 
-[PDF 1](pdf_1.md)
+[Classes and Objects](pdf_1.md)
                 
 
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
