@@ -16,7 +16,6 @@
 
 [C syllabus](doc_1.md)   
 
-[C](https://github.com/math2k21/mishra/blob/main/ccc.docx)
 - [x] Concepts
 - [x] Practice
 - [x] Exam 
