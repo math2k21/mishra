@@ -14,7 +14,9 @@
 
 [Class 12 Syllabus](class_12.md)
 
-- [x] Concepts - [x] Practice - [x] Exam 
+- [x] Concepts 
+- [x] Practice
+- [x] Exam 
 
 <style>
 body {
