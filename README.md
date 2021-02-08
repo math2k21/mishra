@@ -1,8 +1,6 @@
 [Manabendra Mishra](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
 
-- [x] Concepts
-- [x] Practice
-- [x] Exam                             
+[National Digital Library] (https://ndl.iitkgp.ac.in/)                         
 
 [Classes and Objects](pdf_1.md)
                 
@@ -17,6 +15,9 @@
 
 [Class 12 Syllabus](class_12.md)
 
+- [x] Concepts
+- [x] Practice
+- [x] Exam 
 
 <style>
 body {
