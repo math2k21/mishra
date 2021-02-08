@@ -14,7 +14,8 @@
 
 [Class 12 Syllabus](class_12.md)
 
-[C syllabus](ccc.md)   
+[C syllabus](doc_1.md)   
+
 [C](https://github.com/math2k21/mishra/blob/main/ccc.docx)
 - [x] Concepts
 - [x] Practice
