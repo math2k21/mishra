@@ -1,4 +1,4 @@
-**Manabendra Mishra** [profile](https://www.facebook.com/manabendra.mishra.733) Contact: (9434625513)
+**Manabendra Mishra** [profile](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
 
 - [x] Concepts
 - [x] Practice
