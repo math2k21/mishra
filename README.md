@@ -2,9 +2,7 @@
 
 [National Digital Library](https://ndl.iitkgp.ac.in/)                         
 
-[Classes and Objects](pdf_1.md)
-                
-[Short Circuit Evaluation](short_circuit.md)                
+[Classes and Objects](pdf_1.md)             
 
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
@@ -16,6 +14,8 @@
 
 [Class 12 Syllabus](class_12.md)
 
+[C syllabus](ccc.md)   
+[C](https://github.com/math2k21/mishra/blob/main/ccc.docx)
 - [x] Concepts
 - [x] Practice
 - [x] Exam 
