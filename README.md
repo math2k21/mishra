@@ -1,7 +1,4 @@
-Welcome to Math Coaching
- by **Manabendra Mishra**
-....
-My facebook profile is [profile](https://www.facebook.com/manabendra.mishra.733).
+**Manabendra Mishra** [profile](https://www.facebook.com/manabendra.mishra.733) [Mobile] (9434625513)
 
 - [x] Concepts
 - [x] Practice
