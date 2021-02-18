@@ -4,6 +4,8 @@
 
 [JEE (Main)-2021 Syllabus](https://math2k21.github.io/mishra/IIT_JEE.pdf) 
 
+[Differentiation and Integration Formulas](https://math2k21.github.io/mishra/formula.pdf) 
+
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
 [Trick 2](https://user-images.githubusercontent.com/78428741/106628096-7742bd00-659f-11eb-8cac-1f460daeeb4a.jpg)
