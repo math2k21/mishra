@@ -1,1 +1,1 @@
-<a href="https://drive.google.com/file/d/1q8XB0KWkvap7jpQCwHaK749se8GQiKLj/view" target="_blank">PDF</a>
+<embed src="https://math2k21.github.io/mishra/IIT_JEE.pdf" width="100%" height="850px"/>
