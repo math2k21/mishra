@@ -1,6 +1,8 @@
 [Manabendra Mishra](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
 
-[National Digital Library](https://ndl.iitkgp.ac.in/)                     [MIT OpenCourseWare](https://ocw.mit.edu/index.html)
+[National Digital Library](https://ndl.iitkgp.ac.in/)                
+
+[MIT OpenCourseWare](https://ocw.mit.edu/index.html)
 
 [JEE (Main)-2021 Syllabus](https://math2k21.github.io/mishra/IIT_JEE.pdf) 
 
