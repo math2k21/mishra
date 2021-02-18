@@ -2,7 +2,7 @@
 
 [National Digital Library](https://ndl.iitkgp.ac.in/)                         
 
-[JEE (Main)-2021 Syllabus](https://math2k21.github.io/IIT_JEE.pdf)             
+[JEE (Main)-2021 Syllabus](https://math2k21.github.io/mishra/IIT_JEE.pdf)             
 
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
