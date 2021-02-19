@@ -2,11 +2,11 @@
 
 [National Digital Library](https://ndl.iitkgp.ac.in/)                
 
-[##MIT OpenCourseWare](https://ocw.mit.edu/index.html)
+[<h2>MIT OpenCourseWare</h2>](https://ocw.mit.edu/index.html)
 
-[###JEE (Main)-2021 Syllabus](https://math2k21.github.io/mishra/IIT_JEE.pdf) 
+[<h3>JEE (Main)-2021 Syllabus</h3>](https://math2k21.github.io/mishra/IIT_JEE.pdf) 
 
-[####Differentiation and Integration Formulas](https://math2k21.github.io/mishra/formula.pdf) 
+[<h4>Differentiation and Integration Formulas](https://math2k21.github.io/mishra/formula.pdf) 
 
 [Trick 1](https://user-images.githubusercontent.com/78428741/106627865-3cd92000-659f-11eb-91d5-55911ce1755b.jpg)
 
