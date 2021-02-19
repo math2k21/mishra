@@ -1,4 +1,3 @@
-<html>
 <head>
  <title>Mathematics Coaching by Manabendra Mishra </title>
 </head>
