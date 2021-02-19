@@ -1,7 +1,7 @@
-        <html>
-          <head>
-            <title>Mathematics Coaching by Manabendra Mishra</title>
-          </head>
+<html>
+<head>
+ <title>Mathematics Coaching by Manabendra Mishra </title>
+</head>
           
 [Manabendra Mishra](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
 
