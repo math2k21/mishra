@@ -24,7 +24,7 @@
 - [x] Practice
 - [x] Exam 
 <form> <fieldset>
-<input type = "date" size = "30" class = "form-control" >
+Date of Birth : <input type = "date" size = "50" class = "form-control" >
 </fieldset> </form>
 
 <style>
