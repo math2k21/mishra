@@ -38,8 +38,8 @@ Date of Birth :
   <option value="sep">September</option>
   <option value="oct">October</option>
   <option value="nov">November</option>
-  <option value="dec">December</option> </select>  
-
+  <option value="dec">December</option> 
+</select>  
 <select name="days">
   <option value="days">Days</option>
   <option value="1">1</option>
@@ -72,8 +72,8 @@ Date of Birth :
   <option value="28">28</option>
   <option value="29">29</option>
   <option value="30">30</option>
-  <option value="31">31</option>  </select>  
-
+  <option value="31">31</option>  
+</select>  
 <select name="years"> 
   <option value="years">Years</option>
   <option value="2021">2021</option>
@@ -81,7 +81,6 @@ Date of Birth :
   <option value="2023">2023</option>
   <option value="2024">2024</option>
 </select> 
-<input type="submit" value="submit">  
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/78738789/107228180-5d432780-6a42-11eb-99af-b8b20b7f6ee0.jpg');
