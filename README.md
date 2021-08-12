@@ -21,7 +21,7 @@
 [Class 12 Syllabus](class_12.md)
 <form>
   <label>Date : </label>
-  <input type="month" min="2021-01" max="2022-12"
+  <input type="month" min="2021-01" max="2022-12" />
 <input type="submit"/>
 
 Date of Birth : 
