@@ -23,6 +23,9 @@
 - [x] Concepts 
 - [x] Practice
 - [x] Exam 
+<form>
+<input type = "date" size = "30" class = "form-control" >
+</form>
 
 <style>
 body {
