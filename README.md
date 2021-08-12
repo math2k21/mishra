@@ -20,10 +20,6 @@
 
 [Class 12 Syllabus](class_12.md)
 <form>
-  <label>Date : </label>
-  <input type="month" min="2021-01" max="2022-12" />
-<input type="submit"/>
-
 Date of Birth : 
 <select name="month">
   <option value="month">Month</option>
@@ -81,6 +77,7 @@ Date of Birth :
   <option value="2023">2023</option>
   <option value="2024">2024</option>
 </select> 
+  <input type="submit"/>
 </form>
 <style>
 body {
