@@ -23,7 +23,6 @@
   <label>Date : </label>
   <input type="month" min="2021-01" max="2022-12"
 <input type="submit"/>
-</form>
 
 Date of Birth : 
 <select name="month">
@@ -82,6 +81,7 @@ Date of Birth :
   <option value="2023">2023</option>
   <option value="2024">2024</option>
 </select> 
+</form>
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/78738789/107228180-5d432780-6a42-11eb-99af-b8b20b7f6ee0.jpg');
