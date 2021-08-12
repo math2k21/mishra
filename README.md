@@ -23,9 +23,7 @@
   <label>Date : </label>
   <input type="month" min="2021-01" max="2022-12"
 <input type="submit"/>
-- [x] Concepts 
-- [x] Practice
-- [x] Exam 
+</form>
 
 Date of Birth : 
 <select name="month">
