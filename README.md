@@ -24,7 +24,7 @@
 - [x] Practice
 - [x] Exam 
 
-Date of Birth : <Br>
+Date of Birth : 
 <select name="month">
   <option value="month">Month</option>
   <option value="jan">January</option>
@@ -81,7 +81,7 @@ Date of Birth : <Br>
   <option value="2023">2023</option>
   <option value="2024">2024</option>
 </select> 
-  
+<input type="submit" value="submit">  
 <style>
 body {
   background-image: url('https://user-images.githubusercontent.com/78738789/107228180-5d432780-6a42-11eb-99af-b8b20b7f6ee0.jpg');
