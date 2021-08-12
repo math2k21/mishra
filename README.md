@@ -41,7 +41,7 @@ Date of Birth :
   <option value="dec">December</option> 
 </select>  
 <select name="date">
-  <option value="days">Days</option>
+  <option value="days">Date</option>
   <option value="1">1</option>
   <option value="2">2</option>
   <option value="3">3</option>
@@ -75,7 +75,7 @@ Date of Birth :
   <option value="31">31</option>  
 </select>  
 <select name="year"> 
-  <option value="years">Years</option>
+  <option value="years">Year</option>
   <option value="2021">2021</option>
   <option value="2022">2022</option>
   <option value="2023">2023</option>
