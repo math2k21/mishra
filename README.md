@@ -1,4 +1,4 @@
-[Manabendra Mishra](https://www.facebook.com/manabendra.mishra.733) Contact: 9434625513
+
 
 [Olympiads](https://olympiads.hbcse.tifr.res.in/how-to-prepare/past-papers/)
 
